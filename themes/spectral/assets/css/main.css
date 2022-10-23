@@ -161,8 +161,10 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+
+		/* Content text color */
 	body, input, select, textarea {
-		color: #fff;
+		color: #ffffff;
 		font-family: "Open Sans", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
@@ -210,7 +212,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #fff;
+		color: #ffffff;
 		font-weight: 600;
 	}
 
@@ -222,8 +224,9 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	/* Some heading text color */
 	h1, h2, h3, h4, h5, h6 {
-		color: #fff;
+		color: #ffffff;
 		font-weight: 800;
 		letter-spacing: 0.225em;
 		line-height: 1em;
@@ -293,7 +296,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px #fff;
+		border-bottom: solid 2px #000000;
 		margin: 3em 0;
 	}
 
@@ -302,7 +305,7 @@ input, select, textarea {
 		}
 
 	blockquote {
-		border-left: solid 4px #fff;
+		border-left: solid 4px #000000;
 		font-style: italic;
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 2em;
@@ -2117,7 +2120,7 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #ffffff;
 		}
 
 		.icon.style2 {
@@ -2855,17 +2858,22 @@ input, select, textarea {
 			padding: 0;
 		}
 
+
+		/* styles for complete technical service section*/
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #9db4ab;
+			/* color: #c8ece9; */
 			color: #c8ece9;
+
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #ffffff;
+				/* Title text color */
+				color: #000000;
 			}
 
 			.wrapper.style1 hr {
@@ -3649,7 +3657,8 @@ input, select, textarea {
 				-webkit-transition-delay: 0.25s;
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
-				background: #fff;
+				/* background: #fff; */
+				background: #000000;
 				content: '';
 				display: block;
 				height: 2px;
@@ -3733,7 +3742,8 @@ input, select, textarea {
 			-ms-transition-delay: 1.25s;
 			transition-delay: 1.25s;
 			content: '';
-			background: #2e3842;
+			/* background: #2e3842; */
+			background: #2864aa;
 			display: block;
 			width: 100%;
 			height: 100%;
