@@ -32,7 +32,7 @@ title = "Posts"
 enable = true
 title = 'Complete Technical Service'
 body = '''
-Robert Walpole and Partners (RWP) are engaged in a wide range of engineering works for a plethora of big boi clients.
+Robert Walpole and Partners (RWP) are engaged in a wide range of engineering works for a plethora of clients.
 I can put the client logos underneath here, such as London Underground, Affinity water etc.'''
 
 [[params.one.icon]]
